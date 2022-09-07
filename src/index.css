@@ -1,3 +1,24 @@
+* {
+  margin:0; padding:0;
+  box-sizing: border-box;
+  outline: none; border: none;
+  text-decoration: none;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+}
+
+button{
+  cursor: pointer;
+}
+
+@font-face {
+  font-family: HelveticaMd, sans-serif;
+  src: url(fonts/helvetica/HelveticaNeueMedium.ttf);
+}
+/* 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-size: 16px;
@@ -67,4 +88,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
+} */
