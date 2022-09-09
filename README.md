@@ -6,3 +6,5 @@ Mock (design): https://xd.adobe.com/spec/4025e242-a495-4594-71d2-5fd89d774b57-36
 
 Endpoint da API: https://frontend-intern-challenge-api.iurykrieger.vercel.app/products?page=1
 
+
+
