@@ -1,0 +1,48 @@
+.form {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.form > label, .inputRadio {
+    font-size: 13px;
+    margin: 20px 0 10px 0;
+    text-align: left;
+    color: #888888;
+    opacity: 1;
+}
+
+.inputTexto {
+  width: 340px;
+  height: 30px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+}
+
+.inputRadio {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.inputRadio > label {
+    margin: 0px 35px 0px 5px;
+}
+
+.button {
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #888888;
+    width: 340px;
+    height: 39px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.button:hover {
+    color: #fff;
+    background-color: black;
+}

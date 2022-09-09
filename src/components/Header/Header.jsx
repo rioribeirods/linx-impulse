@@ -13,7 +13,7 @@ const Header = () => {
             </div>
             <div className={style.divButton} >
                 <Button style={style.button} content="Conheça a Linx" />
-                <Button style={style.button} content="Ajude o algoritimo" />
+                <Button style={style.button} content="Ajude o algoritmo" />
                 <Button style={style.button} content="Seus produtos" />
                 <Button style={style.button} content="Compartilhe" />
             </div>
